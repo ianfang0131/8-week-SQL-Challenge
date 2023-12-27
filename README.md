@@ -6,3 +6,9 @@ This respository provides the solutions for the 8 case studies from 8weekSQLchal
 Each case study folder contains the following files
 1) SQL File to create the schema, tables and loading data
 2) MD files contains SQL queries to answer the challenge questions.
+
+Platform use: MYSQL Workbench
+
+
+Case studies
+Case Study#1:Danny's Diner
