@@ -11,7 +11,7 @@ Platform use: MYSQL Workbench
 
 
 ## Case studies
-* Case Study #1: Danny's Diner
+* [Case Study #1: Danny's Diner](https://github.com/ianfang0131/8-week-SQL-Challenge/tree/main/Case%20Study%20%231%20-%20Danny's%20Diner)
 * Case Study #2: Pizza Runner
 * Case Study #3: Foodie-Fi
 * Case Study #4: Data Bank
