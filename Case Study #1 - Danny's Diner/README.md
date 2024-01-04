@@ -4,7 +4,7 @@
 
 ## Table of Contents
 
-- [Introduxtion](#business-task)
+- [Introduction](#introduction)
 - [Entity Relationship Diagram](#entity-relationship-diagram)
 ***
 ## Introduction
