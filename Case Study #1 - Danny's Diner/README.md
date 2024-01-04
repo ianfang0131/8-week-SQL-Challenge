@@ -12,3 +12,4 @@ Danny seriously loves Japanese food so in the beginning of 2021, he decides to e
 
 ***
 ## Entity Relationship Diagram
+![Entity Relations Diagram](https://github.com/ianfang0131/8-week-SQL-Challenge/assets/124013330/eef59e02-f2b6-4f9c-aae6-beb98ac5748e)
