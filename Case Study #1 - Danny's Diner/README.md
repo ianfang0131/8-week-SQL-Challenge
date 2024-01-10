@@ -26,4 +26,22 @@ Danny seriously loves Japanese food so in the beginning of 2021, he decides to e
 - 
 ***
  **2.How many days has each customer visited the restaurant?**
+````sql
+
+
+````
+#### solutions:
+- Use
+- 
+***
+ **3.What was the first item from the menu purchased by each customer?**
+````sql
+
+
+
+````
+#### solutions:
+- Use
+- 
+***
 
