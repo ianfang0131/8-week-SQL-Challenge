@@ -15,7 +15,7 @@ Danny seriously loves Japanese food so in the beginning of 2021, he decides to e
 ![Entity Relations Diagram](https://github.com/ianfang0131/8-week-SQL-Challenge/assets/124013330/eef59e02-f2b6-4f9c-aae6-beb98ac5748e)
 ***
 ## Question and answer
-  ** What is the total amount each customer spent at the restaurant?
+  **1.What is the total amount each customer spent at the restaurant?**
   ````sql
 
 
@@ -23,4 +23,7 @@ Danny seriously loves Japanese food so in the beginning of 2021, he decides to e
 ````
 #### solutions:
 - Use **JOIN** to connect two tables
+- 
+***
+ **2.How many days has each customer visited the restaurant?**
 
