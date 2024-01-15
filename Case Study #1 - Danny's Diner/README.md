@@ -44,4 +44,30 @@ Danny seriously loves Japanese food so in the beginning of 2021, he decides to e
 - Use
 - 
 ***
+**4.What is the most purchased item on the menu and how many times was it purchased by all customers?**
+````sql
+
+
+````
+#### solutions:
+- Use
+- 
+***
+**5.Which item was the most popular for each customer?**
+````sql
+
+````
+#### solutions:
+- Use
+- 
+***
+**6.Which item was purchased first by the customer after they became a member?**
+````sql
+
+````
+#### solutions:
+- Use
+- 
+***
+
 
