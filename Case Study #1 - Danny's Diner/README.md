@@ -114,6 +114,18 @@ Danny seriously loves Japanese food so in the beginning of 2021, he decides to e
 #### Solution:
 
 
+***
+**Rank All The Things**
+**Danny also requires further information about the ranking of customer products, but he purposely does not need the ranking for non-member purchases so he expects null ranking values for the records when customers are not yet part of the loyalty program.**
+
+````sql
+
+
+
+
+````
+
+#### Solution:
 
 
 
