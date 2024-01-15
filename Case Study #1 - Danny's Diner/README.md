@@ -104,7 +104,14 @@ Danny seriously loves Japanese food so in the beginning of 2021, he decides to e
 ## BONUS QUESTIONS
 
 **Join All The Things**
+**Recreate the following table output using the available data**
+**customer_id, order_date, product_name, price, member**
 
+````sql
+
+
+````
+#### Solution:
 
 
 
